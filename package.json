@@ -1,0 +1,19 @@
+{
+  "name": "webpack-beta8-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server .",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015-native-modules": "^6.6.0",
+    "http-server": "^0.9.0",
+    "webpack": "^2.1.0-beta.8"
+  }
+}
